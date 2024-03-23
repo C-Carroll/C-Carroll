@@ -33,7 +33,7 @@ I'm a recent graduate of App Academy who has a passion for music, the outdoors, 
 ![vscode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
 
-For me 2024 is a big year of oppurtunity. A few things ive been trying to do is 
+For me 2024 is a big year of oppurtunity. A few things I've been trying to do is 
 1. Travel
 2. Watch more movies
 3. Learn more!!
