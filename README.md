@@ -34,9 +34,9 @@ I'm a recent graduate of App Academy who has a passion for music, the outdoors, 
 
 
 For me 2024 is a big year of oppurtunity. A few things ive been trying to do is 
-1.) Travel
-2.) Watch more movies
-and 3.) Learn more!!
+1. Travel
+2. Watch more movies
+3. Learn more!!
 
 Some skills im interested in learning are:
 ![typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
