@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm a recent graduate of App Academy who has a passion for music, the outdoors, friends, but most of all PROGRAMMING. Throughout my life I've always been involved with live music wether it be at a church or setting up concerts for my city. This along with my passion for being outdoors has truly made me who I am today. 
+I'm a recent graduate of App Academy who has a passion for music, the outdoors, friends, but most of all CODING. Throughout my life I've always been involved with live music wether it be at a church or setting up concerts for my city. This along with my passion for being outdoors has truly made me who I am today. 
 
 
 
@@ -35,12 +35,12 @@ I'm a recent graduate of App Academy who has a passion for music, the outdoors, 
 ![vscode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
 
-For me 2024 is a big year of oppurtunity. A few things I've been trying to do is 
+For me, 2024 is a big year of opportunity. A few things I've been trying to do is 
 1. Travel
 2. Watch more movies
 3. Learn more!!
 
-Some skills im interested in learning are:
+Some skills I'm interested in learning are:
 ![typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Threejs](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
